@@ -1,4 +1,4 @@
 # jspingpong
 Simple JavaScript pingpong game for beginners
 
-(webislife.ru/pingpong/ "game demo")
+[demo game](webislife.ru/pingpong/ "game demo")
